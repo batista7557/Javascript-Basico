@@ -4,5 +4,5 @@ Estudo de javascript moderno básico
 - Arrow Functions;
 - Módulos - Importação e Exportação;
 - Classes, propriedades e métodos;
-- Operadores spread e rest;[
+- Operadores spread e rest;
 - Atribuição via desestruturação.
